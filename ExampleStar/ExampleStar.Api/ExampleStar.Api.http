@@ -1,0 +1,6 @@
+@ExampleStar.Api_HostAddress = http://localhost:5079
+
+GET {{ExampleStar.Api_HostAddress}}/api/Patient/1/
+Accept: application/json
+
+###
